@@ -12,6 +12,7 @@
 | [0018-4sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0016-3sum-closest](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [0018-4sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
