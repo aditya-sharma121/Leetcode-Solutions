@@ -23,6 +23,7 @@
 | [0169-majority-element](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [3011-find-if-array-can-be-sorted](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@
 | [0075-sort-colors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [3011-find-if-array-can-be-sorted](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 ## Quicksort
 |  |
 | ------- |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1952-three-divisors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3011-find-if-array-can-be-sorted](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
