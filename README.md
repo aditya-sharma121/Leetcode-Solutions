@@ -48,6 +48,7 @@
 | [0007-reverse-integer](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0633-sum-of-square-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [1952-three-divisors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1952-three-divisors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,4 +136,20 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
