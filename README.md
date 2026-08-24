@@ -51,6 +51,7 @@
 | [0058-length-of-last-word](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0537-complex-number-multiplication](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0537-complex-number-multiplication) |
 | [0551-student-attendance-record-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0551-student-attendance-record-i) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -88,6 +89,7 @@
 | [0189-rotate-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1768-merge-strings-alternately](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Greedy
@@ -208,4 +210,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
