@@ -42,6 +42,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0537-complex-number-multiplication](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0537-complex-number-multiplication) |
+| [0551-student-attendance-record-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0551-student-attendance-record-i) |
 | [1768-merge-strings-alternately](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 ## Sliding Window
