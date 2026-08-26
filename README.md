@@ -26,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [1550-three-consecutive-odds](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
