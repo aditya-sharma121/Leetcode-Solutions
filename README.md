@@ -20,6 +20,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -197,6 +198,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 ## Euclidean Algorithm
