@@ -30,6 +30,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1550-three-consecutive-odds](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Math
 |  |
 | ------- |
