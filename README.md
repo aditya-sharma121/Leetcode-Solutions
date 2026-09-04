@@ -39,6 +39,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3903-smallest-stable-index-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -241,4 +242,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
