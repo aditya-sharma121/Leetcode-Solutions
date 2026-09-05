@@ -37,6 +37,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
+| [1929-concatenation-of-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [1929-concatenation-of-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String Matching
 |  |
