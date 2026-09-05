@@ -84,6 +84,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0537-complex-number-multiplication](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0537-complex-number-multiplication) |
 | [0633-sum-of-square-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
