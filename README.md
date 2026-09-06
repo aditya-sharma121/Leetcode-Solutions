@@ -33,6 +33,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1550-three-consecutive-odds](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
