@@ -6,17 +6,13 @@ class Solution {
         int count=0;
         for(int i=0;i<k;i++){
             if(isVowel(s.charAt(i))){
-                count++;
-            }
-        }
+                count++; } }
         int maxcount = count;
         for(int i=k;i<s.length();i++){
             if(isVowel(s.charAt(i-k))){
-                count--;
-            }
+                count--; }
             if(isVowel(s.charAt(i))){
-                count++;
-            }
+                count++; }
             maxcount = Math.max(maxcount,count);
         }
         return maxcount;
