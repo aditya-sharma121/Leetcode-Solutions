@@ -119,6 +119,7 @@
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2579-count-total-number-of-colored-cells](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2579-count-total-number-of-colored-cells) |
+| [2843-count-symmetric-integers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
@@ -239,6 +240,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1952-three-divisors) |
+| [2843-count-symmetric-integers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
