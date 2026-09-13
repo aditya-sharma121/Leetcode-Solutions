@@ -43,6 +43,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -128,6 +129,7 @@
 | [0633-sum-of-square-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0812-largest-triangle-area](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1952-three-divisors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
