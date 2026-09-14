@@ -128,6 +128,7 @@
 | [0537-complex-number-multiplication](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0537-complex-number-multiplication) |
 | [0633-sum-of-square-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0812-largest-triangle-area](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
@@ -333,6 +334,7 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Recursion
 |  |
