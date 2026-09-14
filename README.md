@@ -126,6 +126,7 @@
 | [0009-palindrome-number](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0537-complex-number-multiplication](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0537-complex-number-multiplication) |
 | [0633-sum-of-square-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0812-largest-triangle-area](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
@@ -347,4 +348,24 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
