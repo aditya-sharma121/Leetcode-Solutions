@@ -39,6 +39,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1512-number-of-good-pairs](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -68,6 +69,7 @@
 | [0567-permutation-in-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1512-number-of-good-pairs](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -132,6 +134,7 @@
 | [0812-largest-triangle-area](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1512-number-of-good-pairs](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -217,6 +220,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
