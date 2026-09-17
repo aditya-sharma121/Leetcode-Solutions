@@ -13,6 +13,7 @@
 | [0018-4sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0049-group-anagrams) |
@@ -260,6 +261,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
