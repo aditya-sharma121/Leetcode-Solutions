@@ -37,6 +37,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0812-largest-triangle-area](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -139,6 +140,7 @@
 | [0812-largest-triangle-area](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1512-number-of-good-pairs](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
@@ -370,6 +372,7 @@
 | ------- |
 | [0812-largest-triangle-area](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Recursion
 |  |
