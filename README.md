@@ -32,6 +32,7 @@
 | [0217-contains-duplicate](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -138,6 +139,7 @@
 | [0292-nim-game](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0504-base-7](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0537-complex-number-multiplication](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0537-complex-number-multiplication) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0812-largest-triangle-area](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
@@ -214,6 +216,7 @@
 | [0217-contains-duplicate](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
