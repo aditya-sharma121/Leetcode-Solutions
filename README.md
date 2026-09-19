@@ -38,6 +38,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0812-largest-triangle-area](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -192,6 +193,7 @@
 | [0481-magical-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2396-strictly-palindromic-number](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
@@ -220,6 +222,7 @@
 | [0242-valid-anagram](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
