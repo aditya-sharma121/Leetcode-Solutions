@@ -116,6 +116,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Sliding Window
 |  |
@@ -267,6 +268,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
