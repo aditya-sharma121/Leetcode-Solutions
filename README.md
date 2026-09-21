@@ -61,6 +61,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2090-k-radius-subarray-averages](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2090-k-radius-subarray-averages) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -121,6 +122,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -206,6 +208,7 @@
 | [0633-sum-of-square-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
