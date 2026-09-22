@@ -32,6 +32,7 @@
 | [0217-contains-duplicate](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -82,6 +83,7 @@
 | [0217-contains-duplicate](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
