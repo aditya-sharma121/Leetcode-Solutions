@@ -43,6 +43,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1122-relative-sort-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1389-create-target-array-in-the-given-order](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -88,6 +89,7 @@
 | [0771-jewels-and-stones](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1122-relative-sort-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -246,6 +248,7 @@
 | [0389-find-the-difference](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -255,10 +258,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -464,4 +469,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
