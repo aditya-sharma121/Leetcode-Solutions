@@ -73,6 +73,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3285-find-indices-of-stable-mountains](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
