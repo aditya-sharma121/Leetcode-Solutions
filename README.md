@@ -138,6 +138,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Sliding Window
@@ -201,6 +202,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2579-count-total-number-of-colored-cells](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2579-count-total-number-of-colored-cells) |
 | [2843-count-symmetric-integers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2843-count-symmetric-integers) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
