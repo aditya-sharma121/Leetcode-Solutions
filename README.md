@@ -128,6 +128,7 @@
 | [0771-jewels-and-stones](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0929-unique-email-addresses](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
+| [1021-remove-outermost-parentheses](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -428,6 +429,7 @@
 | [0020-valid-parentheses](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
@@ -436,6 +438,7 @@
 | [0020-valid-parentheses](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
