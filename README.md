@@ -18,6 +18,7 @@
 | [0041-first-missing-positive](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -171,6 +172,7 @@
 | [0007-reverse-integer](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0189-rotate-array) |
