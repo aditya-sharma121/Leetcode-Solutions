@@ -188,6 +188,7 @@
 | [0877-stone-game](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0908-smallest-range-i) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1323-maximum-69-number](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1390-four-divisors) |
@@ -434,6 +435,7 @@
 | [0509-fibonacci-number](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
@@ -518,6 +520,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Counting Sort
 |  |
 | ------- |
