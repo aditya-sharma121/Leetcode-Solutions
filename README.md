@@ -82,6 +82,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -260,6 +261,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Trie
 |  |
 | ------- |
@@ -287,6 +289,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
