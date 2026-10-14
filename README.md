@@ -83,6 +83,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -227,6 +228,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
