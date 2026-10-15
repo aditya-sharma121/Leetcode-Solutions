@@ -153,6 +153,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3894-traffic-signal-color](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Sliding Window
 |  |
@@ -235,6 +236,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3894-traffic-signal-color](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Two Pointers
 |  |
@@ -345,6 +347,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3894-traffic-signal-color](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## String Matching
 |  |
 | ------- |
