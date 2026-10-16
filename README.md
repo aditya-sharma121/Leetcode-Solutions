@@ -43,6 +43,7 @@
 | [0812-largest-triangle-area](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0908-smallest-range-i) |
+| [0912-sort-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0929-unique-email-addresses](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -293,6 +294,7 @@
 | [0389-find-the-difference](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -321,6 +323,7 @@
 | [0169-majority-element](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -439,6 +442,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -542,9 +546,22 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
