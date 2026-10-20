@@ -41,6 +41,7 @@
 | [0704-binary-search](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0812-largest-triangle-area](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -383,6 +384,7 @@
 | [0633-sum-of-square-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -567,4 +569,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
