@@ -185,6 +185,7 @@
 | [0070-climbing-stairs](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -341,6 +342,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0537-complex-number-multiplication](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1389-create-target-array-in-the-given-order](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -410,6 +412,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
