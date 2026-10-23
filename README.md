@@ -87,6 +87,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -437,6 +438,7 @@
 | [0389-find-the-difference](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Euclidean Algorithm
 |  |
 | ------- |
