@@ -196,6 +196,7 @@
 | [0189-rotate-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [0365-water-and-jug-problem](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0504-base-7) |
@@ -456,12 +457,14 @@
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
@@ -613,13 +616,23 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [1267-count-servers-that-communicate](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [1267-count-servers-that-communicate](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
