@@ -52,6 +52,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1267-count-servers-that-communicate](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -345,6 +346,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -410,6 +412,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1267-count-servers-that-communicate](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Enumeration
 |  |
@@ -607,4 +610,16 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
