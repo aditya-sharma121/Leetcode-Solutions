@@ -1,19 +1,15 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        int a,b=0,i;
-        a=x;
-        if(x<0){
+        String s = String.valueOf(x);
+        return check(s,0,s.length()-1);
+    }
+    static boolean check(String s,int l,int r){
+        if(l>=r){
+            return true;
+        }
+        if(s.charAt(l)!=s.charAt(r)){
             return false;
         }
-        while(x!=0){
-            i=x%10;
-            b=b*10+i;
-            x=x/10;
-        }
-        if(b==a){
-        return true;
-        }else{
-            return false;
-        }
+        return check(s,l+1,r-1);
     }
 }
