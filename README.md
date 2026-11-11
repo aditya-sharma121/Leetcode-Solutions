@@ -250,6 +250,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
@@ -293,6 +294,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Trie
 |  |
 | ------- |
