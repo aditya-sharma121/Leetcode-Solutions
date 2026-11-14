@@ -89,6 +89,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -187,6 +188,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -527,6 +529,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Geometry
