@@ -82,6 +82,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2574-left-and-right-sum-differences](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2747-count-zero-request-servers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
@@ -121,6 +122,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2747-count-zero-request-servers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -187,6 +189,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2090-k-radius-subarray-averages) |
+| [2747-count-zero-request-servers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
@@ -328,6 +331,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2747-count-zero-request-servers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3536-maximum-product-of-two-digits](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
