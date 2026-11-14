@@ -72,6 +72,7 @@
 | [1816-truncate-sentence](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1882-process-tasks-using-servers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -486,6 +487,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1882-process-tasks-using-servers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 ## Quickselect
 |  |
 | ------- |
