@@ -62,6 +62,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1534-count-good-triplets](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -226,6 +227,7 @@
 | [1390-four-divisors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1518-water-bottles) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -509,6 +511,7 @@
 | [0877-stone-game](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
@@ -535,6 +538,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
