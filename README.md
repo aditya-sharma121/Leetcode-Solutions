@@ -39,6 +39,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0812-largest-triangle-area](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
@@ -380,6 +381,7 @@
 | [0258-add-digits](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0537-complex-number-multiplication](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1518-water-bottles) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -523,6 +525,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
