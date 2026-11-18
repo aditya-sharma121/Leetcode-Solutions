@@ -1,15 +1,11 @@
 class Solution {
-    public int[] plusOne(int[] nums) {
-      for(int i=nums.length-1;i>=0;i--){
-        if(nums[i]<9){
-            nums[i]++;
-            return nums;
-        }else{
-              nums[i] =0;
-        }
-      }
-            int[] res = new int[nums.length+1];
-            res[0] = 1;
-            return res;
+    public int[] plusOne(int[] d) {
+        for (int i = d.length - 1; i >= 0; i--)
+            if (d[i]++ < 9) return d;
+            else d[i] = 0;
+        
+        int[] r = new int[d.length + 1];
+        r[0] = 1;
+        return r;
     }
 }
