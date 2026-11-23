@@ -55,6 +55,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1267-count-servers-that-communicate](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1390-four-divisors) |
@@ -232,6 +233,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1323-maximum-69-number](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1518-water-bottles) |
@@ -555,6 +557,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -701,4 +704,12 @@
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
