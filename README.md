@@ -97,6 +97,7 @@
 | [3285-find-indices-of-stable-mountains](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -204,6 +205,7 @@
 | [2747-count-zero-request-servers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Math
 |  |
@@ -262,6 +264,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3492-maximum-containers-on-a-ship](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -458,6 +461,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
@@ -467,6 +471,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prime Factorization
 |  |
 | ------- |
