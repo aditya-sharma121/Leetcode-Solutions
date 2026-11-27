@@ -109,6 +109,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -321,6 +322,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Trie
 |  |
 | ------- |
@@ -538,6 +540,7 @@
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aditya-sharma121/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
